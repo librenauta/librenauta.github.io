@@ -54,7 +54,7 @@ var NoiseButton = function (_PIXI$Application) {
       borderWidth: 0,
       wavesAlpha: 1,
       displacementScale: { x: 30, y: 50 },
-      displacementMap: "http://digitalfreepen.com/images/2017/whitenoise.png"
+      displacementMap: "https://librenauta.github.io/zinenauta/img/whitenoise.png"
     }, options);
 
     // example of the received polygon string
@@ -294,8 +294,8 @@ new NoiseButton({
   borderColor: "0xFFFFFF",
   backgroundAlpha: 1,
   wavesAlpha: 0.8,
-  waves: "https://cdn.rawgit.com/av-dev/noise-button/930cbd38/Z3hB7It.png",
-  displacementMap: "https://cdn.rawgit.com/av-dev/noise-button/930cbd38/displace-map.jpeg"
+  waves: "https://librenauta.github.io/zinenauta/img/Z3hB7It.png",
+  displacementMap: "https://librenauta.github.io/zinenauta/img/displace-map.jpeg"
 });
 
 // -----------------
@@ -323,8 +323,8 @@ new NoiseButton({
   borderColor: "0xFFFFFF",
   backgroundAlpha: 1,
   wavesAlpha: 0.8,
-  waves: "https://cdn.rawgit.com/av-dev/noise-button/930cbd38/Z3hB7It.png",
-  displacementMap: "https://cdn.rawgit.com/av-dev/noise-button/930cbd38/displace-map.jpeg"
+  waves: "https://librenauta.github.io/zinenauta/img/Z3hB7It.png",
+  displacementMap: "https://librenauta.github.io/zinenauta/img/displace-map.jpeg"
 });
 
 new NoiseButton({
@@ -338,6 +338,6 @@ new NoiseButton({
   borderColor: "0xFFFFFF",
   backgroundAlpha: 1,
   wavesAlpha: 0.8,
-  waves: "https://cdn.rawgit.com/av-dev/noise-button/930cbd38/Z3hB7It.png",
-  displacementMap: "https://cdn.rawgit.com/av-dev/noise-button/930cbd38/displace-map.jpeg"
+  waves: "https://librenauta.github.io/zinenauta/img/Z3hB7It.png",
+  displacementMap: "https://librenauta.github.io/zinenauta/img/displace-map.jpeg"
 });
