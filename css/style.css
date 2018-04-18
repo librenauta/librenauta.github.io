@@ -13,6 +13,7 @@ body {
   background: #000;
   font-family: monospace;
   background-image: linear-gradient(135deg, #f06, #f43);
+  color: #000;
 }
 
 h1 {

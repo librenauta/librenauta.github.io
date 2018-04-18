@@ -5,6 +5,7 @@
 html, body {
   width: 100%;
   height: 100%;
+  color: #000;
 }
 
 body {
@@ -12,7 +13,7 @@ body {
   overflow: hidden;
   background: #000;
   font-family: monospace;
-
+  color: #000;
 }
 
 h1 {
@@ -20,6 +21,7 @@ h1 {
 }
 
 button {
+  color: #000;
   font-family: monospace;
   border: 2px solid tomato;
   background: transparent;
@@ -68,6 +70,7 @@ article {
  /* clip: rect(0, auto, 10.250em, 0px);*/
  top: 100%;
  right: 10%;
+color: #000;
 }
 
 [class*="reflection-"] {
@@ -81,6 +84,7 @@ article {
   right: 20%;
    -webkit-transform: translateX(-50%);
     /*      transform: translateX(-50%);*/
+  color: #000; 
 }
 
 .reflection-1 {
