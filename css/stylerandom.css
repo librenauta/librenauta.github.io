@@ -45,7 +45,7 @@ article {
   top: 20%;
   position: relative;
   -webkit-transform: translateY(-10%);
-          transform: translateY(-50%);
+
 }
 /*   background-image: linear-gradient(135deg, #f06, #f43);*/
 .sunset {
@@ -84,7 +84,7 @@ color: #000;
   right: 20%;
    -webkit-transform: translateX(-50%);
     /*      transform: translateX(-50%);*/
-  color: #000; 
+  color: #000;
 }
 
 .reflection-1 {
