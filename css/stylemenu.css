@@ -23,6 +23,7 @@ b {
   position: relative;
   display: block;
   font-family: helvetica neue, helvetica, sans-serif;
+  color: black;
   line-height: 1.15em;
   margin-top: -50px;
   margin-left: 90%;
