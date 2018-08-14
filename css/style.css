@@ -22,7 +22,7 @@ h1 {
 
 button {
   font-family: monospace;
-  border: 2px solid tomato;
+  border: 2px solid #9900e0;
   background: transparent;
   width: 250px;
   font-size: 1.2em;
@@ -60,14 +60,14 @@ article {
   background-image: linear-gradient(to bottom, #ff7660, #ff427d 70%);*/
   position: relative;
   /*border-radius: 0%;*/
-  border: 3px solid tomato;
+  border: 3px solid #9900e0;
  /* clip: rect(0, auto, 10.250em, 0px);*/
  top: 100%;
  right: 10%;
 }
 
 [class*="reflection-"] {
-  border: 3px solid tomato;
+  border: 3px solid #9900e0;
   height: .5em;
   width: 9.5em;
   background: transparent;
