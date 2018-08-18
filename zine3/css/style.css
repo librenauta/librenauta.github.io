@@ -12,7 +12,8 @@ html, body {
 body {
   padding: 20px;
   padding-top: 40px;
-  min-width: 1200px; }
+  min-width: 1200px; 
+  height: 100%;}
 
 header h1, footer h1 {
   font-weight: normal;
